@@ -6,6 +6,9 @@ bin-release/
 
 # Other files and folders
 .settings/
+LOYO_results/**
+search_results/**
+hurricane_data/**
 
 # Executables
 *.swf
