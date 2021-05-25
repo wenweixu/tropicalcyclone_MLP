@@ -8,24 +8,31 @@ Deep Learning Experiments for Tropical Cyclone Intensity Forecasts, Xu, W., Bala
 
 ## training/validation/testing data
 Supporting data should be downloaded from: 
+
 Xu, Wenwei, Balaguru, Karthik, August, Andrew, Lalo, Nicholas, Hodas, Nathan, DeMaria, Mark, & Judi, David. (2021). Supporting data for Xu et al. 2021 - Weather and Forecasting (Version 1) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4784610
 
 The downloaded data can be stored under the folder `hurricane_data`. 
 
 24-hour model data used in LOYO testing (before scaling):
-`hurricane_data/NOAA_reanalysis_vars_global_w_dvs24.csv`
+
+`hurricane_data/NOAA_reanalysis_vars_global_w_dvs24.csv` 
+and
 `hurricane_data/NOAA_operational_vars_global_w_dvs24.csv`
 
 24-hour model data used in LOYO testing (after scaling):
+
 `hurricane_data/train_global_fill_REA_na_wo_img_scaled.csv`
 
 2019 operational data reserved for 24-hour model independent test:
+
 `hurricane_data/NOAA_operational_vars_global_wLabels_fill_na_Y2019.csv`
 
 2020 operational data reserved for 24-hour model independent test:
+
 `hurricane_data/NOAA_operational_vars_global_wLabels_fill_na_Y2020.csv`
 
 6-hour model data used in LOYO testing (before scaling):
+
 `hurricane_data/NOAA_reanalysis_vars_global_w_dvs6.csv`
 
 
@@ -54,6 +61,8 @@ The testing results will be in `LOYO_results/seeds`. The results include two csv
 The operational forecast portion of this research was supported by the Deep Science Agile Initiative at Pacific Northwest National Laboratory (PNNL). It was conducted under the Laboratory Directed Research and Development Program at PNNL. PNNL is a multiprogram national laboratory operated by Battelle for the U.S. Department of Energy under contract DE-AC05-76RL01830.
 
 The synthetic tropical cyclone portion of this research was supported by the Multisector Dynamics program areas of the U.S. Department of Energy, Office of Science, Office of Biological and Environmental Research as part of the multi-program, collaborative Integrated Coastal Modeling (ICoM) project.
+
+K. B acknowledges support from the Regional and Global Modeling and Analysis Program of the U.S. Department of Energy, Office of Science, Office of Biological and Environmental Research (BER) and from NOAA's Climate Program Office, Climate Monitoring Program (Award NA17OAR4310155). 
 
 
 ## Contact
