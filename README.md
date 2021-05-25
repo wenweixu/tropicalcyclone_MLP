@@ -2,7 +2,8 @@
 Scientists have been searching for decades for breakthroughs in tropical cyclone intensity modeling to provide more accurate and timely tropical cyclone warnings. To this end, we developed a deep learning-based predictive model for North Atlantic 24-hour and 6-hour intensity forecast. We simulated 2019 and 2020 tropical cyclones as if in an operational forecast mode, and found that the model’s 24-hour intensity forecast outperformed some of the most skillful operational models by 5-22%. Also, the 6-hour intensity model (a lightweight version) produced realistic intensity labels for synthetic tropical cyclone tracks. These results highlight the potential for using deep neural network-based models to improve operational hurricane intensity forecasts and synthetic tropical cyclone generation.
 
 MLP model performance illustration. More details in paper.
-![Alt text](figs/Fig 2.png?raw=true "Model performance illustration")
+
+![Alt text](tropicalcyclone_MLP/figs/Fig 2.png)
 
 ## how to cite:
 Deep Learning Experiments for Tropical Cyclone Intensity Forecasts, Xu, W., Balaguru, K., August, A., Lalo, N., Hodas, N., DeMaria, M., & Judi, D. (in revision with Weather and Forecasting)
