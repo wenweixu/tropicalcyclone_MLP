@@ -3,7 +3,7 @@ Scientists have been searching for decades for breakthroughs in tropical cyclone
 
 MLP model performance illustration. More details in paper.
 
-![Alt text](tropicalcyclone_MLP/figs/Fig 2.png)
+![Alt text](https://github.com/wenweixu/tropicalcyclone_MLP/blob/main/figs/Fig%202.png)
 
 ## how to cite:
 Deep Learning Experiments for Tropical Cyclone Intensity Forecasts, Xu, W., Balaguru, K., August, A., Lalo, N., Hodas, N., DeMaria, M., & Judi, D. (in revision with Weather and Forecasting)
