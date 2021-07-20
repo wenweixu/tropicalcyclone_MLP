@@ -8,8 +8,7 @@ MLP model performance illustration. More details in paper.
 ![Alt text](https://github.com/wenweixu/tropicalcyclone_MLP/blob/main/figs/Fig%202.png)
 
 ## how to cite:
-Deep Learning Experiments for Tropical Cyclone Intensity Forecasts, Xu, W., Balaguru, K., August, A., Lalo, N., Hodas, N., DeMaria, M., & Judi, D. (accepted at Weather and Forecasting)
-`citation will be updated once the paper is published`
+W. Xu, K. Balaguru, A. August, N. Lalo, N. Hodas, M. DeMaria, & D. Judi. "Deep Learning Experiments for Tropical Cyclone Intensity Forecasts," Weather and Forecasting, (2021). DOI: 10.1175/WAF-D-20-0104.1
 
 
 ## training/validation/testing data
